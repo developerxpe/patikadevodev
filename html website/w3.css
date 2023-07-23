@@ -1,0 +1,24 @@
+.baslik {
+    color: red;
+    text-align: center;
+    font-weight: bold;
+}
+
+.center {
+    text-align: center;
+}
+
+.center2{
+    font-size: 20px;
+}
+.sayilar {
+    margin-left: 460px;
+    font-weight: bold;
+    font-size: 20px;
+   
+}
+
+ul.myUL {
+    display: inline-block;
+    text-align: left;
+}
